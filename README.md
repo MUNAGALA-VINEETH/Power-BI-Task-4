@@ -17,3 +17,6 @@ Mentor: Neela Santosh
 Task 4: Temperature Summary Report
 This task focused on creating a summary dashboard of temperature readings. I added key visuals showing the sum, average, min, max, median, and count of temperature values using colorful card visuals. A title was added to reflect the purpose of the dashboard, and each stat was color-coded for better readability. The goal was to create a simple, easy-to-understand summary for end users to interpret sensor behavior at a glance.
 
+output
+
+![Image](https://github.com/user-attachments/assets/f1a14706-0b87-4507-9dc0-2b67dedb5d39)
